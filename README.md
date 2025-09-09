@@ -33,8 +33,8 @@ The goal of this project is to demonstrate practical penetration testing skills,
 ## How to Navigate
 Start with the main documentation:  
 
-- [1. Executive Summary](1.%20Executive%20Summary.md)  
-- [2. Scope](2.%20Scope.md)
-- [3. Tooling & Techniques](3.%20Tooling%20&%20Techniques.md)
-- [4. OWASP TOP 10 mapping](4.%20OWASP%20TOP%2010%20mapping.md)
-- [5. Remediation Roadmap (Prioritized Fixes)](5.%20Remediation%20Roadmap%20(Prioritized%20Fixes).md)
+- [1. Executive Summary](/Documentation/1.%20Executive%20Summary.md)  
+- [2. Scope](/Documentaion/2.%20Scope.md)
+- [3. Tooling & Techniques](/Documentaion/3.%20Tooling%20&%20Techniques.md)
+- [4. OWASP TOP 10 mapping](/Documentaion/4.%20OWASP%20TOP%2010%20mapping.md)
+- [5. Remediation Roadmap (/Documentaion/Prioritized Fixes)](5.%20Remediation%20Roadmap%20(Prioritized%20Fixes).md)
